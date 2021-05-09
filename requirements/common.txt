@@ -1,0 +1,5 @@
+# Common dependencies
+sanic==21.3.*
+aiohttp==3.7.*
+kafka-python==2.0.*
+python-dotenv==0.17.*
